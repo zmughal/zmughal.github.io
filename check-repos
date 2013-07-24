@@ -9,7 +9,7 @@ if [ ! -f repos ]; then
 		| grep -v '"html_url": "https://github.com/zmughal",' \
 		| grep -o 'https[^"]*' \
 		| sort | uniq \
-		> repos
+		> .repos
 fi
 
-diff <(ack --markdown -h -o 'https://github.com/zmughal/[^)/]*' | sort | uniq) repos
+diff <(ack --markdown -h -o 'https://github.com/zmughal/[^)/]*' | sort | uniq) .repos
