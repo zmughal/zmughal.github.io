@@ -41,3 +41,9 @@
 # Course work
 
 - [cosc3330-fpga-project](https://github.com/zmughal/cosc3330-fpga-project)
+
+# Misc
+
+- [dotfiles](https://github.com/zmughal/dotfiles)
+- [vimrc](https://github.com/zmughal/vimrc)
+- [zmughal.github.io](https://github.com/zmughal/zmughal.github.io)
