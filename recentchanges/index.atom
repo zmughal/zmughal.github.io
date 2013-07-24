@@ -17,7 +17,139 @@
 
 <subtitle type="html">zmughal</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-06-21T03:42:18Z</updated>
+<updated>2013-07-24T17:11:57Z</updated>
+<entry>
+	<title>change to .gitignore on zmughal</title>
+
+	<id>http://zmughal.github.io//recentchanges/change_8295166c5da6fa7a62ec48732bed616f25779543/</id>
+
+	<link href="http://zmughal.github.io/recentchanges/#change-8295166c5da6fa7a62ec48732bed616f25779543"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2013-07-24T17:11:57Z</updated>
+	<published>2013-07-24T17:11:57Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-8295166c5da6fa7a62ec48732bed616f25779543&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=zaki.mughal&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;zaki.mughal&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:11:57 PM 07/24/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?rev=8295166c5da6fa7a62ec48732bed616f25779543&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://zmughal.github.io//recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add gitignore&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to README.md index on zmughal</title>
+
+	<id>http://zmughal.github.io//recentchanges/change_f84e3015c4e4b162f3adb347c9932e9438f2134d/</id>
+
+	<link href="http://zmughal.github.io/recentchanges/#change-f84e3015c4e4b162f3adb347c9932e9438f2134d"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2013-07-24T17:11:16Z</updated>
+	<published>2013-07-24T17:11:16Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f84e3015c4e4b162f3adb347c9932e9438f2134d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=README.md&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;README.md&lt;/a&gt;
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=zaki.mughal&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;zaki.mughal&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:11:16 PM 07/24/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?rev=f84e3015c4e4b162f3adb347c9932e9438f2134d&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://zmughal.github.io//recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial commit for ikiwiki&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to README.md on zmughal</title>
 
