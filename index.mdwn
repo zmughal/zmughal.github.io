@@ -1,1 +1,43 @@
-This is a test.
+# Projects
+
+- [gmail-imap-label](http://github.com/zmughal/gmail-imap-label)
+- [p5-Data-Printer-Filter-PDL](http://github.com/zmughal/p5-Data-Printer-Filter-PDL)
+- [autobahn](http://github.com/zmughal/autobahn)
+- [Goosebumper](http://github.com/zmughal/Goosebumper)
+- [electric-cd](http://github.com/zmughal/electric-cd)
+
+# Work in progress
+
+- [velociraptero](http://github.com/zmughal/velociraptero)
+  - [p5-Biblio-Zotero-DB](http://github.com/zmughal/p5-Biblio-Zotero-DB)
+- [p5-Devel-REPL-Web](http://github.com/zmughal/p5-Devel-REPL-Web)
+  - [p5-PDL-Graphics-Simple-Web](http://github.com/zmughal/p5-PDL-Graphics-Simple-Web)
+  - [jq-console](http://github.com/zmughal/jq-console)
+  - [p5-Playfair](http://github.com/zmughal/p5-Playfair)
+- [p5-MuPDF](http://github.com/zmughal/p5-MuPDF)
+  - [p5-Alien-MuPDF](http://github.com/zmughal/p5-Alien-MuPDF)
+- [p5-Image-Leptonica](http://github.com/zmughal/p5-Image-Leptonica)
+   - [p5-Alien-Leptonica](http://github.com/zmughal/p5-Alien-Leptonica)
+
+# Talks
+
+- [cougarcs-vi_tutorial-20100902](http://github.com/zmughal/cougarcs-vi_tutorial-20100902)
+- [cougarcs-mandelbrot-20110407](http://github.com/zmughal/cougarcs-mandelbrot-20110407)
+- [cougarcs-intro_semweb-20120126](http://github.com/zmughal/cougarcs-intro_semweb-20120126)
+- [cougarcs-git-github-workshop-20130214](http://github.com/zmughal/cougarcs-git-github-workshop-20130214)
+  - [try_git](http://github.com/zmughal/try_git)
+- [cougarcs-regex-workshop-20130228](http://github.com/zmughal/cougarcs-regex-workshop-20130228)
+- [cougarcs-grammar-peg-20130328](http://github.com/zmughal/cougarcs-grammar-peg-20130328)
+
+# Toy code
+
+- [Developing-Backbone.js-Applications_book-library-example](https://github.com/zmughal/Developing-Backbone.js-Applications_book-library-example)
+- [slashdot-anniversary-archive](http://github.com/zmughal/slashdot-anniversary-archive)
+- [numberals](http://github.com/zmughal/numberals)
+- [houstonhackathon-metro-analysis](http://github.com/zmughal/houstonhackathon-metro-analysis)
+- [cougarcs-codedojo-zaki](http://github.com/zmughal/cougarcs-codedojo-zaki)
+- [masakism-workshop-20130501](http://github.com/zmughal/masakism-workshop-20130501)
+
+# Course work
+
+- [cosc3330-fpga-project](http://github.com/zmughal/cosc3330-fpga-project)

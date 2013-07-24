@@ -1,0 +1,58 @@
+# Not ready
+
+## Image processing/analysis and visualisation
+
+- [p5-App-Image-Annotation-TreeTool](http://github.com/zmughal/p5-App-Image-Annotation-TreeTool)
+- [p5-Image-VIPS](http://github.com/zmughal/p5-Image-VIPS)
+- [p5-VTK](http://github.com/zmughal/p5-VTK)
+
+## Scripts
+
+- [open-mid-uri](http://github.com/zmughal/open-mid-uri)
+- [html-mail-archive-to-mbox](http://github.com/zmughal/html-mail-archive-to-mbox)
+- [vim-plugin-vcs-import](http://github.com/zmughal/vim-plugin-vcs-import)
+- [gmail-porifera](http://github.com/zmughal/gmail-porifera)
+
+## Hardware
+
+- [p5-Device-DMM-RS22812](http://github.com/zmughal/p5-Device-DMM-RS22812)
+
+## Data analysis
+
+- [vzla_election_results_2013](http://github.com/zmughal/vzla_election_results_2013)
+
+
+## Web API/scraping
+
+- [p5-WWW-Honeywell-Scraper](http://github.com/zmughal/p5-WWW-Honeywell-Scraper)
+- [p5-WWW-Sunlight-API](http://github.com/zmughal/p5-WWW-Sunlight-API)
+- [p5-WWW-Slashdot-Scraper](http://github.com/zmughal/p5-WWW-Slashdot-Scraper)
+- [houston-emergency-services-tracker](http://github.com/zmughal/houston-emergency-services-tracker)
+- [p5-WebService-Zotero](http://github.com/zmughal/p5-WebService-Zotero)
+
+## Document reader
+
+- [folio-reader](http://github.com/zmughal/folio-reader)
+- [p5-DBD-NetRetrieve](http://github.com/zmughal/p5-DBD-NetRetrieve)
+- [p5-Fetch-Paper](http://github.com/zmughal/p5-Fetch-Paper)
+- [p5-Biblio-Document-Information-Extraction](http://github.com/zmughal/p5-Biblio-Document-Information-Extraction)
+- [Incunabula](http://github.com/zmughal/Incunabula)
+
+## Static analysis
+
+- [matlab-central-code-analysis](http://github.com/zmughal/matlab-central-code-analysis)
+- [module-ecosystem-code-analysis](http://github.com/zmughal/module-ecosystem-code-analysis)
+- [jlucidity_test](http://github.com/zmughal/jlucidity_test)
+
+## Social
+
+- [nntp-portal](http://github.com/zmughal/nntp-portal)
+- [facebook-stream-notify](http://github.com/zmughal/facebook-stream-notify)
+
+## Misc
+
+- [perl-talks-data](http://github.com/zmughal/perl-talks-data)
+- [p5-IkiWiki-Plugin-iotl](http://github.com/zmughal/p5-IkiWiki-Plugin-iotl)
+- [mobile-ui-prototype](http://github.com/zmughal/mobile-ui-prototype)
+- [scraps](http://github.com/zmughal/scraps)
+- [automata-algorithms](http://github.com/zmughal/automata-algorithms)

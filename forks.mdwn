@@ -1,0 +1,51 @@
+# Forks
+
+- [coursera](http://github.com/zmughal/coursera)
+
+- [Hiveminder](http://github.com/zmughal/Hiveminder)
+- [net-ckan](http://github.com/zmughal/net-ckan)
+
+- [h](http://github.com/zmughal/h)
+- [pdf.js](http://github.com/zmughal/pdf.js)
+- [annotator](http://github.com/zmughal/annotator)
+
+- [openfoodfacts-android](http://github.com/zmughal/openfoodfacts-android)
+
+- [notanotherweatherplugin](http://github.com/zmughal/notanotherweatherplugin)
+
+- [UH-Member-Validation](http://github.com/zmughal/UH-Member-Validation)
+
+- [play-perl](http://github.com/zmughal/play-perl)
+- [AnyData](http://github.com/zmughal/AnyData)
+
+- [bot-basicbot-pluggable](http://github.com/zmughal/bot-basicbot-pluggable)
+- [vim-perl](http://github.com/zmughal/vim-perl)
+
+- [URI-Title](http://github.com/zmughal/URI-Title)
+
+## Need to fix bugs
+
+- [p5-latex-table](http://github.com/zmughal/p5-latex-table)
+- [Metaweb](http://github.com/zmughal/Metaweb)
+- [tcl.pm](http://github.com/zmughal/tcl.pm)
+- [Font-FreeType](http://github.com/zmughal/Font-FreeType)
+- [bot-basicbot-pluggable-module-rss](http://github.com/zmughal/bot-basicbot-pluggable-module-rss)
+
+## Waiting for pull request / merge patches
+
+- [ack.vim](http://github.com/zmughal/ack.vim)
+- [p5-dist-zilla-plugin-alien](http://github.com/zmughal/p5-dist-zilla-plugin-alien)
+- [Path-Class-URI](http://github.com/zmughal/Path-Class-URI)
+
+## Contrib
+
+- [GeckBot](http://github.com/zmughal/GeckBot)
+- [Devel-REPL-Plugin-DataPrinter](http://github.com/zmughal/Devel-REPL-Plugin-DataPrinter)
+- [Devel-REPL](http://github.com/zmughal/Devel-REPL)
+- [Test-Pretty](http://github.com/zmughal/Test-Pretty)
+- [get-flash-videos](http://github.com/zmughal/get-flash-videos)
+- [dev-guides](http://github.com/zmughal/dev-guides)
+- [zeroclickinfo-spice](http://github.com/zmughal/zeroclickinfo-spice)
+- [p5-CAM-PDF](http://github.com/zmughal/p5-CAM-PDF)
+- [Facebook-Auto-Poker](http://github.com/zmughal/Facebook-Auto-Poker)
+- [features](http://github.com/zmughal/features)
