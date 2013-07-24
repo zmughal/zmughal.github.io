@@ -1,0 +1,15 @@
+#!/bin/bash
+if [ ! -f repos ]; then
+	wget -O - \
+		'https://api.github.com/users/zmughal/repos?page=1' \
+		'https://api.github.com/users/zmughal/repos?page=2' \
+		'https://api.github.com/users/zmughal/repos?page=3' \
+		'https://api.github.com/users/zmughal/repos?page=4' \
+		| grep html_url \
+		| grep -v '"html_url": "https://github.com/zmughal",' \
+		| grep -o 'https[^"]*' \
+		| sort | uniq \
+		> .repos
+fi
+
+diff <(ack --markdown -h -o 'https://github.com/zmughal/[^)/]*' | sort | uniq) .repos
