@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://zmughal.github.io//recentchanges/</link>
+<description>zmughal</description>
+<item>
+
+	<title>zaki.mughal: change to README.md on zmughal</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://zmughal.github.io//recentchanges/change_60662d6d35604bbd2482d294af9f248459249a49/</guid>
+
+	<link>http://zmughal.github.io/recentchanges/#change-60662d6d35604bbd2482d294af9f248459249a49</link>
+
+	<pubDate>Fri, 21 Jun 2013 03:42:18 +0000</pubDate>
+	<dcterms:modified>2013-06-21T03:42:18Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-60662d6d35604bbd2482d294af9f248459249a49&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=README.md&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;README.md&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?page=zaki.mughal&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;zaki.mughal&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:42:18 AM 06/21/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://simulo.hsd1.tx.comcast.net./~zaki/zmughal/ikiwiki.cgi?rev=60662d6d35604bbd2482d294af9f248459249a49&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://zmughal.github.io//recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Create README.md&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+
+</channel>
+</rss>
