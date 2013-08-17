@@ -56,3 +56,6 @@
 - [mobile-ui-prototype](https://github.com/zmughal/mobile-ui-prototype)
 - [scraps](https://github.com/zmughal/scraps)
 - [automata-algorithms](https://github.com/zmughal/automata-algorithms)
+- [etherpad-vcs](https://github.com/zmughal/etherpad-vcs)
+- [p5-Alien-Uninum](https://github.com/zmughal/p5-Alien-Uninum)
+- [zmughal-build-pdf.js](https://github.com/zmughal/zmughal-build-pdf.js)

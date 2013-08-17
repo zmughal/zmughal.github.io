@@ -18,6 +18,7 @@
   - [p5-Alien-MuPDF](https://github.com/zmughal/p5-Alien-MuPDF)
 - [p5-Image-Leptonica](https://github.com/zmughal/p5-Image-Leptonica)
    - [p5-Alien-Leptonica](https://github.com/zmughal/p5-Alien-Leptonica)
+- [bookscanner-frontend](https://github.com/zmughal/bookscanner-frontend)
 
 # Talks
 

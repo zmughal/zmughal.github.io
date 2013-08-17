@@ -23,6 +23,8 @@
 
 - [URI-Title](https://github.com/zmughal/URI-Title)
 
+- [bower-installer](https://github.com/zmughal/bower-installer)
+
 ## Need to fix bugs
 
 - [p5-latex-table](https://github.com/zmughal/p5-latex-table)
@@ -34,12 +36,10 @@
 ## Waiting for pull request / merge patches
 
 - [ack.vim](https://github.com/zmughal/ack.vim)
-- [p5-dist-zilla-plugin-alien](https://github.com/zmughal/p5-dist-zilla-plugin-alien)
 - [Path-Class-URI](https://github.com/zmughal/Path-Class-URI)
 
 ## Contrib
 
-- [GeckBot](https://github.com/zmughal/GeckBot)
 - [Devel-REPL-Plugin-DataPrinter](https://github.com/zmughal/Devel-REPL-Plugin-DataPrinter)
 - [Devel-REPL](https://github.com/zmughal/Devel-REPL)
 - [Test-Pretty](https://github.com/zmughal/Test-Pretty)
@@ -49,3 +49,8 @@
 - [p5-CAM-PDF](https://github.com/zmughal/p5-CAM-PDF)
 - [Facebook-Auto-Poker](https://github.com/zmughal/Facebook-Auto-Poker)
 - [features](https://github.com/zmughal/features)
+
+### Commit bit
+
+- [GeckBot](https://github.com/zmughal/GeckBot)
+- [p5-dist-zilla-plugin-alien](https://github.com/zmughal/p5-dist-zilla-plugin-alien)
