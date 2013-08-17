@@ -8,6 +8,65 @@
 <description>zmughal</description>
 <item>
 
+	<title>zaki.mughal: change to forks index not-ready on zmughal</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://zmughal.github.io//recentchanges/change_681ae716b5a2ebb20fc85056fc1a44163b4adbed/</guid>
+
+	<link>http://zmughal.github.io/recentchanges/#change-681ae716b5a2ebb20fc85056fc1a44163b4adbed</link>
+
+	<pubDate>Sat, 17 Aug 2013 05:56:54 +0000</pubDate>
+	<dcterms:modified>2013-08-17T05:56:54Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-681ae716b5a2ebb20fc85056fc1a44163b4adbed&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+forks
+
+index
+
+not-ready
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:56:54 AM 08/17/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add new repos&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>zaki.mughal: change to .gitignore check-repos on zmughal</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
