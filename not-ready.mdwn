@@ -1,5 +1,12 @@
 # Not ready
 
+## Talks
+
+- [cougarcs-linked-data-workshop](https://github.com/zmughal/cougarcs-linked-data-workshop)
+- [cougarcs-nltk-workshop](https://github.com/zmughal/cougarcs-nltk-workshop)
+- [cougarcs-perl-workshop-series-fall-2013](https://github.com/zmughal/cougarcs-perl-workshop-series-fall-2013)
+- [csgsa-unix-workshop-series-fall-2013](https://github.com/zmughal/csgsa-unix-workshop-series-fall-2013)
+
 ## Image processing/analysis and visualisation
 
 - [p5-App-Image-Annotation-TreeTool](https://github.com/zmughal/p5-App-Image-Annotation-TreeTool)
@@ -59,3 +66,4 @@
 - [etherpad-vcs](https://github.com/zmughal/etherpad-vcs)
 - [p5-Alien-Uninum](https://github.com/zmughal/p5-Alien-Uninum)
 - [zmughal-build-pdf.js](https://github.com/zmughal/zmughal-build-pdf.js)
+- [masters](https://github.com/zmughal/masters)
