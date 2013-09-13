@@ -29,6 +29,8 @@
   - [try_git](https://github.com/zmughal/try_git)
 - [cougarcs-regex-workshop-20130228](https://github.com/zmughal/cougarcs-regex-workshop-20130228)
 - [cougarcs-grammar-peg-20130328](https://github.com/zmughal/cougarcs-grammar-peg-20130328)
+- [cougarcs-lightning-talk-vagrant-20130912](https://github.com/zmughal/cougarcs-lightning-talk-vagrant-20130912)
+
 
 # Toy code
 
