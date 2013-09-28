@@ -36,6 +36,7 @@
 - [p5-WWW-Slashdot-Scraper](https://github.com/zmughal/p5-WWW-Slashdot-Scraper)
 - [houston-emergency-services-tracker](https://github.com/zmughal/houston-emergency-services-tracker)
 - [p5-WebService-Zotero](https://github.com/zmughal/p5-WebService-Zotero)
+- [scraping-experiments](https://github.com/zmughal/scraping-experiments)
 
 ## Document reader
 
