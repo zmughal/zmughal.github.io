@@ -49,6 +49,7 @@
 - [p5-CAM-PDF](https://github.com/zmughal/p5-CAM-PDF)
 - [Facebook-Auto-Poker](https://github.com/zmughal/Facebook-Auto-Poker)
 - [features](https://github.com/zmughal/features)
+- [XPlatformCloudKit](https://github.com/zmughal/XPlatformCloudKit)
 
 ### Commit bit
 
