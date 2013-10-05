@@ -25,6 +25,8 @@
 
 - [bower-installer](https://github.com/zmughal/bower-installer)
 
+- [vim-matlab-fold](https://github.com/zmughal/vim-matlab-fold)
+
 ## Need to fix bugs
 
 - [p5-latex-table](https://github.com/zmughal/p5-latex-table)
