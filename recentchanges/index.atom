@@ -17,7 +17,131 @@
 
 <subtitle type="html">zmughal</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-10-06T16:08:33Z</updated>
+<updated>2013-12-01T06:54:44Z</updated>
+<entry>
+	<title>change to forks on zmughal</title>
+
+	<id>http://zmughal.github.io//recentchanges/change_90f0d38ca0eb03ad5de78b46ec182a092f679daa/</id>
+
+	<link href="http://zmughal.github.io/recentchanges/#change-90f0d38ca0eb03ad5de78b46ec182a092f679daa"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2013-12-01T06:54:44Z</updated>
+	<published>2013-12-01T06:54:44Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-90f0d38ca0eb03ad5de78b46ec182a092f679daa&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+forks
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:54:44 AM 12/01/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add fork&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to check-repos on zmughal</title>
+
+	<id>http://zmughal.github.io//recentchanges/change_cb0277c9fea37187d40c00877ff23ab539027b50/</id>
+
+	<link href="http://zmughal.github.io/recentchanges/#change-cb0277c9fea37187d40c00877ff23ab539027b50"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2013-12-01T06:53:46Z</updated>
+	<published>2013-12-01T06:53:46Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-cb0277c9fea37187d40c00877ff23ab539027b50&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+check-repos
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:53:46 AM 12/01/2013&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add page to repo checking script&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to forks on zmughal</title>
 
@@ -33,6 +157,7 @@
 
 	<updated>2013-10-06T16:08:33Z</updated>
 	<published>2013-10-06T16:08:33Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -95,6 +220,7 @@ fork&lt;br /&gt;
 	<updated>2013-10-05T14:48:47Z</updated>
 	<published>2013-10-05T14:48:47Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -155,6 +281,7 @@ fork&lt;br /&gt;
 
 	<updated>2013-10-04T06:56:59Z</updated>
 	<published>2013-10-04T06:56:59Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -217,6 +344,7 @@ add project&lt;br /&gt;
 	<updated>2013-09-30T18:39:45Z</updated>
 	<published>2013-09-30T18:39:45Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -277,6 +405,7 @@ fork&lt;br /&gt;
 
 	<updated>2013-09-28T13:45:42Z</updated>
 	<published>2013-09-28T13:45:42Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -339,6 +468,7 @@ add project&lt;br /&gt;
 	<updated>2013-09-13T13:42:07Z</updated>
 	<published>2013-09-13T13:42:07Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -400,6 +530,7 @@ add talk&lt;br /&gt;
 	<updated>2013-09-01T22:16:31Z</updated>
 	<published>2013-09-01T22:16:31Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -460,6 +591,7 @@ add new repos&lt;br /&gt;
 
 	<updated>2013-08-17T05:56:54Z</updated>
 	<published>2013-08-17T05:56:54Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -526,6 +658,7 @@ add new repos&lt;br /&gt;
 	<updated>2013-07-24T19:40:43Z</updated>
 	<published>2013-07-24T19:40:43Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -589,6 +722,7 @@ use .repos file to cache repo list&lt;br /&gt;
 	<updated>2013-07-24T19:39:12Z</updated>
 	<published>2013-07-24T19:39:12Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -650,6 +784,7 @@ add misc repos to index&lt;br /&gt;
 	<updated>2013-07-24T19:38:56Z</updated>
 	<published>2013-07-24T19:38:56Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -710,6 +845,7 @@ script to check if all repos are mentioned&lt;br /&gt;
 
 	<updated>2013-07-24T19:26:31Z</updated>
 	<published>2013-07-24T19:26:31Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -776,6 +912,7 @@ change http:// urls to https:// urls&lt;br /&gt;
 	<updated>2013-07-24T19:24:35Z</updated>
 	<published>2013-07-24T19:24:35Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -841,6 +978,7 @@ organise list of repos&lt;br /&gt;
 	<updated>2013-07-24T17:11:57Z</updated>
 	<published>2013-07-24T17:11:57Z</published>
 
+
 	<content type="html" xml:lang="en">
 	
 
@@ -901,6 +1039,7 @@ add gitignore&lt;br /&gt;
 
 	<updated>2013-07-24T17:11:16Z</updated>
 	<published>2013-07-24T17:11:16Z</published>
+
 
 	<content type="html" xml:lang="en">
 	
@@ -964,6 +1103,7 @@ initial commit for ikiwiki&lt;br /&gt;
 
 	<updated>2013-06-21T03:42:18Z</updated>
 	<published>2013-06-21T03:42:18Z</published>
+
 
 	<content type="html" xml:lang="en">
 	

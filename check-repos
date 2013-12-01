@@ -5,6 +5,7 @@ if [ ! -f repos ]; then
 		'https://api.github.com/users/zmughal/repos?page=2' \
 		'https://api.github.com/users/zmughal/repos?page=3' \
 		'https://api.github.com/users/zmughal/repos?page=4' \
+		'https://api.github.com/users/zmughal/repos?page=5' \
 		| grep html_url \
 		| grep -v '"html_url": "https://github.com/zmughal",' \
 		| grep -o 'https[^"]*' \
