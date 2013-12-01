@@ -53,6 +53,7 @@
 - [features](https://github.com/zmughal/features)
 - [XPlatformCloudKit](https://github.com/zmughal/XPlatformCloudKit)
 - [langgame](https://github.com/zmughal/langgame)
+- [xs-fun](https://github.com/zmughal/xs-fun)
 
 ### Commit bit
 
