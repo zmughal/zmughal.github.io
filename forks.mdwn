@@ -54,6 +54,7 @@
 - [XPlatformCloudKit](https://github.com/zmughal/XPlatformCloudKit)
 - [langgame](https://github.com/zmughal/langgame)
 - [xs-fun](https://github.com/zmughal/xs-fun)
+- [plotlyperl](https://github.com/zmughal/plotlyperl)
 
 ### Commit bit
 
