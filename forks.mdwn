@@ -54,7 +54,9 @@
 - [XPlatformCloudKit](https://github.com/zmughal/XPlatformCloudKit)
 - [langgame](https://github.com/zmughal/langgame)
 - [xs-fun](https://github.com/zmughal/xs-fun)
-- [plotlyperl](https://github.com/zmughal/plotlyperl)
+- [Plotly-Perl-API](https://github.com/zmughal/Plotly-Perl-API)
+  - was [plotlyperl](https://github.com/zmughal/plotlyperl)
+- [GameThreadGenerator](https://github.com/zmughal/GameThreadGenerator)
 
 ### Commit bit
 
